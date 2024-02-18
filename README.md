@@ -1,2 +1,3 @@
 # Hand-Gesture-Presentation
-It is an software that allows a user to control there ppts using different hand gestures . A user can  upload a ppt file by browseing in there device and can upload it . Then  there are multiple different hand gestures displayed so user can learn it and then they can use it to control the ppt . It only  require device internal camra or the can use external camera . Along it has a virtual Keyboard .
+The software allows users to control their PPTs using different hand gestures. A user can  upload a PowerPoint file by browsing on their device and can upload it. Then  there are multiple hand gestures displayed so the user can learn them and then use them to control the PPT. It only  requires the device's internal camera or they can use the external camera. Along with it is a virtual Keyboard.
+Install all the necessary libraries and Python on  your device.
